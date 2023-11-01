@@ -194,4 +194,6 @@ a {
     .pepa {
         width: 100%;
     }
+      .search input {
+        max-width: 100%; /* Defina a largura máxima para 100% em dispositivos móveis */
 }
